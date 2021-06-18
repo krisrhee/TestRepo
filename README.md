@@ -1,2 +1,2 @@
-# TestRepo
+# TestRepository
 Test repository
